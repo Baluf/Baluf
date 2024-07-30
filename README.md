@@ -7,7 +7,7 @@
 
 /////
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Baluf/Baluf/blob/main/coding.gif?raw=true" width="408" height="318" />
 
 
 ### Talking about Personal Stuff:
