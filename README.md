@@ -36,11 +36,11 @@
     <a href="#"><img alt="golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>    
 </p>
 
-### Frameworks and libraries
+### Cloud Hosting
 
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 
-### 🗄️ Databases and Cloud Hosting
+### 🗄️ Databases 
 
 <p>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
