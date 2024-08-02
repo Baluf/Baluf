@@ -1,11 +1,4 @@
-# Welcome to @Baluf profile!
-
-<a href="www.linkedin.com/in/bar-aluf-aa365b111" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
-&nbsp;
-
-## Glad to see you here! &nbsp;
-
-/////
+# Welcome to Bar Aluf profile!
 
 <img align="right" alt="GIF" src="https://github.com/Baluf/Baluf/blob/main/coding.gif?raw=true" width="408" height="318" />
 
@@ -16,14 +9,10 @@
 - 🔭 I’m currently working on Axonius
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
-- 📬 How to reach me: [alufbar8@gmail.com](mailto:aswin2001barath@gmail.com)
-- 💪 This is where I write, code and solve problems:
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Baluf" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AswinBarath" height="30" width="40" /></a>
+- 📬 How to reach me:
+    -  [alufbar8@gmail.com](mailto:aswin2001barath@gmail.com)
+    -  <a href="https://www.linkedin.com/in/bar-aluf-aa365b111/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
-
----
 
 ## 🛠️ My Favourite tools
 
